@@ -32,7 +32,11 @@ sh get-docker.sh
 ```
 sudo docker --version
 ```
-4. Attend **Web 2.0** to learn more ! see you there :)
+4. Give your environment a quick test run to make sure you’re all set up
+```
+sudo docker run hello-world
+```
+5. Attend **Web 2.0** to learn more ! see you there :)
 
 ## Windows
 
