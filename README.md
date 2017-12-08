@@ -36,10 +36,14 @@ sudo docker --version
 
 ## Windows
 
-1. Download from here : https://store.docker.com/editions/community/docker-ce-desktop-windows
-2. Attend **Web 2.0** to learn more ! see you there :)
+Download from here : https://store.docker.com/editions/community/docker-ce-desktop-windows
 
 ## Mac
 
-1. Download from here : https://store.docker.com/editions/community/docker-ce-desktop-mac
-2. Attend **Web 2.0** to learn more ! see you there :)
+Download from here : https://store.docker.com/editions/community/docker-ce-desktop-mac
+
+## Attend *Web 2.0* to learn more about Docker !
+
+![docker-cat](https://www.docker.com/sites/default/files/catkeyboard%402x-min.png)
+
+
