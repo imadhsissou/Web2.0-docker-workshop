@@ -42,7 +42,7 @@ Download from here : https://store.docker.com/editions/community/docker-ce-deskt
 
 Download from here : https://store.docker.com/editions/community/docker-ce-desktop-mac
 
-## Attend *Web 2.0* to learn more about Docker !
+## Attend *Web 2.0* to learn more about Docker :) see you there !
 
 ![docker-cat](https://www.docker.com/sites/default/files/catkeyboard%402x-min.png)
 
