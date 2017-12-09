@@ -18,21 +18,21 @@ Cet atelier vous permettra de découvrir cet outil d'empaquetage des application
 
 ## Linux 
 
-1. Download install script from *https://get.docker.com/*
+1. Download install script from *https://get.docker.com/* :
 ```
 curl -fsSL get.docker.com -o get-docker.sh
 ```
 
-2. Run *get-docker.sh*
+2. Run *get-docker.sh* :
 
 ```
 sh get-docker.sh
 ```
-3. Congratulations ! you have Docker installed, to check docker version
+3. Congratulations ! you have Docker installed, to check docker version :
 ```
 sudo docker --version
 ```
-4. Give your environment a quick test run to make sure you’re all set up
+4. Give your environment a quick test run to make sure you’re all set up :
 ```
 sudo docker run hello-world
 ```
@@ -45,6 +45,8 @@ Download from here : https://store.docker.com/editions/community/docker-ce-deskt
 ## Mac
 
 Download from here : https://store.docker.com/editions/community/docker-ce-desktop-mac
+
+***PS : Using a linux VM during the workshop is recommended !***
 
 ## Attend *Web 2.0* to learn more about Docker :) see you there !
 
