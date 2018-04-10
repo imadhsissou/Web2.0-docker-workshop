@@ -1,9 +1,9 @@
 # Journée WEB2.0 | Deuxième édition by TechShare
 ## Workshop 1 : Introduction à Docker, votre futur meilleur ami
 
-![img](https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/24300914_319185161821332_2575356649231818980_n.jpg?oh=297a2fb1683beae3f3ee3c09aadcabd5&oe=5A8D761D)
+![](https://i.imgur.com/lYfu1mR.jpg)
 
-![img](https://scontent-mad1-1.xx.fbcdn.net/v/t1.0-9/24300963_319305821809266_7243258022229497873_n.jpg?oh=0b2e2e5626836c2b3c9cfd70d3a07ead&oe=5A967FF1)
+![](https://i.imgur.com/AXEHr9G.jpg)
 
 Vous voulez que vos projets soient exécutés dans n'importe quel système d'exploitation, mais vous n'avez pas les outils techniques pour ce faire !
 
