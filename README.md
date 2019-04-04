@@ -1,5 +1,9 @@
 # Journée WEB2.0 | Deuxième édition by TechShare
-## Workshop 1 : Introduction à Docker, votre futur meilleur ami
+## Workshop 1 : Introduction à Docker, votre futur meilleur ami  
+
+**UPDATE :  
+Thanks everyone for attending the workshop 😎**  
+**For further details, please check the full [Get Started](https://docs.docker.com/get-started/) Workshop 🐳**
 
 ![](https://i.imgur.com/lYfu1mR.jpg)
 
